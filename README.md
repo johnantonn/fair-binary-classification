@@ -1,5 +1,5 @@
 # fair-binary-classification
-Fairness-aware binary classification on the adult dataset
+Fairness-aware binary classification for the Adult Census Income dataset
 
 ## Contents
 This repository contains two jupyter notebooks for predictive modeling of the adult dataset:
